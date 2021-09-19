@@ -1,3 +1,3 @@
 # GIT practice
 
---hello git!
+- hello git!
