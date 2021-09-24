@@ -18,7 +18,8 @@ Node is a eviroment rather than language.
   - git config --list
     ![image](https://i.imgur.com/iYbhwu4.png)
 - repository
-  - to build: git init <-> rm -r .git
+  - to build:
+    - git init <-> rm -r .git
   - to modify:
     - git status
     - git add
